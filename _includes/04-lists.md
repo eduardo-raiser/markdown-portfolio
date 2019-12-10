@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# Favorite books
+- What to expect when you are expecting
+- Data science for dummies
