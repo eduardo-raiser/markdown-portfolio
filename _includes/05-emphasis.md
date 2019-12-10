@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My main abilities are:
+- **SQL**
+- Data analysis _EDW_
+- **MDM _Master Data Management_**
